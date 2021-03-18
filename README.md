@@ -41,5 +41,5 @@ Home page
 <br />
 After filling entries
 <br />
-<img src="codingchallenge/usedapp.png" width="250" height="400">
+<img src="homework/usedapp.png" width="250" height="400">
 <br />
