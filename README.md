@@ -5,13 +5,9 @@
 <br />
 <b>Task1</b>
 <br />
-Task1
+Callbacks
 <br />
 <img src="task1/callbacks.PNG" width="250" height="400">
-<br />
-Second Activity
-<br />
-<img src="task1/onStart.PNG" width="250" height="400">
 <br />
 <b>Task 2</b>
 <br />
