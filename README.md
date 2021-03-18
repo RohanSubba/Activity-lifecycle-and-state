@@ -17,7 +17,7 @@ Beforerotating
 <br />
 Rotated
 <br />
-<img src="task2/rotated.png" width="250" height="400">
+<img src="task2/rotated.png" width="400" height="250">
 <br />
 Coding Challenge
 <br />
